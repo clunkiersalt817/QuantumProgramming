@@ -6,7 +6,7 @@ Example 1 : *Half adder* uses two inputs and two outputs. it can only add two bi
 these are not bits but qubits
 which can exist in simultaneous but different states... defined by *statevectors*.
 
-```PYTHON
+```PYthon
 #creating a half adder quantum circuit
 #using CNOT(Controlled NOT in Quantum or XOR)
 #create circuit with 4 qubits and 2 classical bits
